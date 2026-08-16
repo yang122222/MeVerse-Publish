@@ -1,1 +1,1 @@
-baseUrl: "yang122222.github.io/MeVerse-Publish",
+baseUrl: "mverse-publish.pages.dev",
